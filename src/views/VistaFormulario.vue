@@ -37,7 +37,7 @@ export default {
                 docente:'',
                 semestre:0,
                 vez:'',
-                materiia:''
+                materia:''
             } 
             console.log(this.materia)
         }
